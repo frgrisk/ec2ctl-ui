@@ -1,0 +1,8 @@
+{
+  "name": "ec2ctl-ui",
+  "private": true,
+  "dependencies": {
+    "livebud": "0.1.4",
+    "svelte": "3.47.0"
+  }
+}
